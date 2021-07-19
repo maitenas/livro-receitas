@@ -1,7 +1,8 @@
 
 livro de receita
 
-ola, bem vindo ano nosso livro de receitas
+ola, bem vindo ao nosso livro de receitas
 
- - strgonoff de franfo
+ - strogonoff de frango
+ - macarrao
  
